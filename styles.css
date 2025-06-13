@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "FreeSans";
+    src: url('./assets/FreeSans-LrmZ.ttf');
+}
+
+@font-face {
+    font-family: "TimeBurner";
+    src: url('./assets/Timeburner-xJB8.ttf');
+}
+
+body {
+    background: url('./assets/background.jpg') center center/cover no-repeat;
+    color: white;
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    overflow-x: hidden;
+}
