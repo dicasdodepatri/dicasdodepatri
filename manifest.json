@@ -2,30 +2,30 @@
   "name": "Dicas do Depatri",
   "short_name": "Depatri",
   "description": "Seu guia para dicas práticas e úteis sobre diversos temas.",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0288d1",
   "lang": "pt-BR",
   "icons": [
     {
-      "src": "/assets/logo-192x192.png",
+      "src": "./assets/logo-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/assets/logo-512x512.png",
+      "src": "./assets/logo-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/assets/logo-180x180.png",
+      "src": "./assets/logo-180x180.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/assets/logo-180x180.png",
+      "src": "./assets/logo-180x180.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "maskable"
