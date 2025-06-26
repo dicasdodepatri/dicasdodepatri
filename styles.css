@@ -22,14 +22,15 @@ body {
     display: flex;
     flex-direction: column;
     align-items:center;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     overflow-x: hidden;
 }
 
 #credits{
+    font-family:8pt;
     position:absolute;
     top:95%;
+    align-self:center;
     z-index:1000;
-    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
